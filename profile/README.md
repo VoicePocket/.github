@@ -42,7 +42,7 @@
 <hr>
 
 ## 3. 아키텍처
-<img src="https://user-images.githubusercontent.com/98803599/235362664-16565b7f-ef25-4a85-9d3a-4dc741658a50.png">
+<img src="https://user-images.githubusercontent.com/98803599/235365237-8710407f-c3aa-4eb8-a23c-3c9ac7e000a8.png">
 
 <hr>
 
