@@ -1,4 +1,4 @@
-# Voice Pocket
+# Voice Pocket(진행중)
  ### *AI 음성 학습 모델을 활용한 Custom TTS 서비스*
 <br>
 
