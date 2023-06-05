@@ -42,7 +42,7 @@
 <hr>
 
 ## 3. 아키텍처
-<img src="https://user-images.githubusercontent.com/98803599/235365237-8710407f-c3aa-4eb8-a23c-3c9ac7e000a8.png">
+<img src="https://github.com/VoicePocket/VoicePocket-Backend-new/assets/98803599/9b0fef92-cbab-4cdf-900b-6e3d98717aba">
 
 <hr>
 
@@ -52,9 +52,7 @@
   
 - <b>Back-End</b>  
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">  
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white">  
   <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=Celery&logoColor=white"> 
   <img src="https://img.shields.io/badge/RabbitMQ-FF6F00?style=for-the-badge&logo=RabbitMQ&logoColor=white"> 
 
