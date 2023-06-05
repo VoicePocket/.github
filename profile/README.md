@@ -42,7 +42,7 @@
 <hr>
 
 ## 3. 아키텍처
-<img src="https://github.com/VoicePocket/VoicePocket-Backend-new/assets/98803599/9b0fef92-cbab-4cdf-900b-6e3d98717aba">
+<img src="https://github.com/VoicePocket/VoicePocket-Backend-new/assets/98803599/ac5dc1d0-80f1-4f6f-b5ff-2cb1cf5e5ee6">
 
 <hr>
 
