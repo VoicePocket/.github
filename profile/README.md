@@ -4,7 +4,7 @@
 
 ## 목차
   - [0. 개요](#0-개요)
-  - [1. 주요 기능](#1-주요-기능)
+  - [1. 프로젝트 소개](#1-프로젝트-소개)
   - [2. 세부 구성](#2-세부-구성)
   - [3. 아키텍처](#3-아키텍처)
   - [4. 기술 스택](#4-기술-스택)
@@ -26,7 +26,10 @@
 
 <hr>
 
-## 1. 주요 기능
+## 1. 프로젝트 소개
+### 소개 영상
+[![Video Label](http://img.youtube.com/vi/o-C13VACJOo/0.jpg)](https://youtu.be/o-C13VACJOo)  
+
 ### 🗣️사용자가 자신의 목소리를 녹음하여 사용자 고유의 Voice Model을 만들 수 있습니다.  
 
 ### ❤️‍🔥사용자들끼리 자신의 Custom TTS Model을 공유하여 친구들 목소리로 TTS 서비스를 이용할 수 있습니다.  
@@ -37,7 +40,7 @@
 
 ## 2. 세부 구성
 <img width="24%" height="24%" alt="image" src="https://user-images.githubusercontent.com/98803599/235359219-3f31e4d0-6791-4607-8a2e-5b2d9f3abcfe.png"> <img width="24%" height="24%" alt="image" src="https://user-images.githubusercontent.com/98803599/235359312-de40b3c3-0a8f-466a-b8c6-84ce5382d2c7.png"> 
-<img width="24%" height="24%" alt="image" src="https://user-images.githubusercontent.com/98803599/235359420-f09fd67e-bc8f-4f2d-8ccd-3b4767a367ca.png">   <img width="24%" height="24%" alt="image" src="https://user-images.githubusercontent.com/98803599/235359550-9c06521b-461b-4d25-a7d4-abc3c7a4c73f.png">
+<img width="24%" height="24%" alt="image" src="https://user-images.githubusercontent.com/98803599/235359420-f09fd67e-bc8f-4f2d-8ccd-3b4767a367ca.png">   <img width="24%" height="24%" alt="image" src="https://user-images.githubusercontent.com/98803599/235359550-9c06521b-461b-4d25-a7d4-abc3c7a4c73f.png">  
 
 <hr>
 
