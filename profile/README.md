@@ -1,4 +1,4 @@
-# Voice Pocket(진행중)
+# Voice Pocket
  ### *AI 음성 학습 모델을 활용한 Custom TTS 서비스*
 <br>
 
@@ -42,22 +42,24 @@
 <hr>
 
 ## 3. 아키텍처
-<img src="https://github.com/VoicePocket/VoicePocket-Backend-new/assets/98803599/ac5dc1d0-80f1-4f6f-b5ff-2cb1cf5e5ee6">
+<img src="https://github.com/VoicePocket/.github/assets/98803599/658f6954-8d96-4d2c-a419-24f78a404912">
 
 <hr>
 
+
 ## 4. 기술 스택
 - <b>Application</b>  
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"> 
   
 - <b>Back-End</b>  
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"> 
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> 
   <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=Celery&logoColor=white"> 
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6F00?style=for-the-badge&logo=RabbitMQ&logoColor=white"> 
-
-- <b>DevOps</b>    
-  <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> 
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6F00?style=for-the-badge&logo=RabbitMQ&logoColor=white">  
+  <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
+  <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/gcs bucket-AECBFA?style=for-the-badge&logo=google cloud storage&logoColor=white"> 
 
 - <b>AI (Tools, Env)</b>    
   <img src="https://img.shields.io/badge/colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"> 
@@ -79,7 +81,7 @@
 | Name    | <center>최준혁</center>|<center>이경민</center> |<center>박성준</center> | <center>이정규</center>
 | ------- | --------------------------------------------- | ------------------------------------ | --------------------------------------------- | --------------------------------------- |
 | Profile | <img width="150px" src="https://github.com/hi-june.png" />|<img width="150px" src="https://github.com/tidavid1.png" />| <img width="150px" src="https://github.com/Sungjjjun.png" />| <img width="150px" src="https://github.com/HuMooole.png" />|
-| role    | <center>Team Leader, <br>Backend & DevOps</center>   | <center>Backend & AI</center>    | <center>Flutter  </center>  | <center>Flutter</center> |
+| role    | <center>Team Leader <br>Backend</center>   | <center>Backend & AI</center>    | <center>Flutter  </center>  | <center>Flutter</center> |
 | Github  | <center>[@hi-june](https://github.com/hi-june)</center> | <center>[@tidavid1](https://github.com/tidavid1)</center> | <center>[@Sungjjjun](https://github.com/Sungjjjun)</center> | <center>[@HuMooole](https://github.com/HuMooole)</center> |
 
 <hr>
